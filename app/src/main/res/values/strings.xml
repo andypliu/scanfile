@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScanFiles</string>
+    <string name="action_go_scan">Go Scan</string>
+    <string name="action_stop_scan">Stop!</string>
+    <string name="action_share">Share</string>
+    <string name="hint">Press Go Scan to start!</string>
+    <string name="share_title">Share Scan Result</string>
+</resources>
